@@ -1884,7 +1884,7 @@ a:hover {
 .site-name,
 #aside-content .author-info-name,
 #aside-content .author-info-description {
-  font-family: "Kaiti SC", "STKaiti", "KaiTi", "楷体", "LXGW WenKai", serif;
+  font-family: simsun;
 }
 .text-center {
   text-align: center;

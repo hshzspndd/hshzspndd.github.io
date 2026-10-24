@@ -65,9 +65,9 @@
   background-size: 100%;
 }
 
-/* 分类卡片背景：禁止平铺，铺满卡片 */
+/* 分类卡片背景：禁止平铺，拉伸铺满整卡（图完整显示，轻微变形换无空区） */
 li.categoryBar-list-item {
   background-repeat: no-repeat !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
   background-position: center !important;
 }

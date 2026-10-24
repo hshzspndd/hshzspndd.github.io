@@ -64,3 +64,10 @@
   background-attachment: inherit;
   background-size: 100%;
 }
+
+/* 分类卡片背景：禁止平铺，铺满卡片 */
+li.categoryBar-list-item {
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
